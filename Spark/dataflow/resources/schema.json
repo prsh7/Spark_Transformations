@@ -1,0 +1,22 @@
+[
+  {
+    "name": "rank",
+    "type": "STRING",
+    "description": "Present rank"
+  },
+  {
+    "name": "population",
+    "type": "STRING",
+    "description": "Present population"
+  },
+    {
+    "name": "prev_population",
+    "type": "STRING",
+    "description": "Previous Population"
+  },
+    {
+    "name": "growth",
+    "type": "STRING",
+    "description": "In percentage"
+  }
+]
